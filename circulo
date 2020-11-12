@@ -1,0 +1,29 @@
+java.lang.Object
+practica5.Circulo
+
+public class Circulo
+extends java.lang.Object
+
+Circulo(double radio) 
+
+double	area() 
+double	getRadio() 
+double	perimetro() 
+void	setRadio(double radio) 
+java.lang.String	toString() 
+
+public Circulo()
+public Circulo(double radio)
+public double getRadio()
+public void setRadio(double radio)
+public java.lang.String toString()
+toString in class java.lang.Object
+public double perimetro()
+Circulo() public double area()
+
+public double getRadio()
+public void setRadio(double radio)
+public java.lang.String toString()
+toString in class java.lang.Object
+public double perimetro()
+public double area()
