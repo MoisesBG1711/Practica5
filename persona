@@ -1,0 +1,48 @@
+# Practica5
+java.lang.Object
+practica5.Persona
+
+public class Persona
+extends java.lang.Object
+
+Persona() 
+Persona(java.lang.String Nombre, java.lang.String Apellidos) 
+Persona(java.lang.String Nombre, java.lang.String Apellidos, practica5.Fecha fNacimiento) 
+
+java.lang.String	getApellidos() 
+practica5.Fecha	getfNacimiento() 
+java.lang.String	getNombre() 
+void	setApellidos(java.lang.String Apellidos) 
+void	setfNacimiento(practica5.Fecha fNacimiento) 
+void	setNombre(java.lang.String Nombre) 
+java.lang.String	toString() 
+
+public Persona()
+
+public Persona(java.lang.String Nombre,
+               java.lang.String Apellidos,
+               practica5.Fecha fNacimiento)
+Parameters:
+Nombre - Es el nombre de nuestra persona
+Apellidos - Es el apellido de nuestra persona
+fNacimiento - Es la fecha de nacimiento de nuestra persona
+
+public Persona(java.lang.String Nombre,
+               java.lang.String Apellidos)
+               
+public java.lang.String getNombre()
+
+public void setNombre(java.lang.String Nombre)
+
+public java.lang.String getApellidos()
+
+public void setApellidos(java.lang.String Apellidos)
+
+public practica5.Fecha getfNacimiento()
+
+public void setfNacimiento(practica5.Fecha fNacimiento)
+
+public java.lang.String toString()
+
+toString in class java.lang.Object
+
